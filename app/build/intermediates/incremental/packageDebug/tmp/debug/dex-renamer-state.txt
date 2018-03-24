@@ -1,0 +1,4 @@
+#Sat Mar 17 22:36:17 BDT 2018
+base.0=/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/android-RuntimePermissions/kotlinApp/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Mar 17 22:36:17 BDT 2018
+0.baseType=DIRECTORY
+0.base=/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/android-RuntimePermissions/kotlinApp/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

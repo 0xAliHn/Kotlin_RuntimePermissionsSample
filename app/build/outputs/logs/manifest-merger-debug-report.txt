@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:support-v13:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0.aar/19e7c720e85aabbc737f599b0dce9af8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/design-26.0.0.aar/6d6501fe5e9bb5bba500e9a0a7865dae/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/5eb1393fadb450e489fcfee6c48568f9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/c2a95ac24aceaffc42dede895453831d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2aaad3eb5dd590b9d7a1a6915565e2a2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/668300a35ea94d1d7cb34653e707e541/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/transition-26.0.0.aar/5c8b08aa1f053174c0b20c5d3e9e27dd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/534ba19e0841273edec947a6e5de19b9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9e27215b6bcda8f740450b36bfd75810/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/c2530d026000a69477d8b64f47058d4f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/62ec7f23ec714c18819ca24d24a4d943/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/37f56a886da5e421cdf268c2a3ba0667/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/41a116aa21a94a8dab1ccf7996ae8395/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.1] /Users/ali/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/442a11e8425d0346fc6c12bf146d729e/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:3:11-57
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission-sdk-23#android.permission.READ_CONTACTS
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:11:29-76
+uses-permission-sdk-23#android.permission.WRITE_CONTACTS
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:12:29-77
+application
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:14:5-27:19
+MERGED from [com.android.support:support-v13:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0.aar/19e7c720e85aabbc737f599b0dce9af8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0.aar/19e7c720e85aabbc737f599b0dce9af8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/design-26.0.0.aar/6d6501fe5e9bb5bba500e9a0a7865dae/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/design-26.0.0.aar/6d6501fe5e9bb5bba500e9a0a7865dae/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/5eb1393fadb450e489fcfee6c48568f9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/5eb1393fadb450e489fcfee6c48568f9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/c2a95ac24aceaffc42dede895453831d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/c2a95ac24aceaffc42dede895453831d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2aaad3eb5dd590b9d7a1a6915565e2a2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2aaad3eb5dd590b9d7a1a6915565e2a2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/668300a35ea94d1d7cb34653e707e541/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/668300a35ea94d1d7cb34653e707e541/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/transition-26.0.0.aar/5c8b08aa1f053174c0b20c5d3e9e27dd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/transition-26.0.0.aar/5c8b08aa1f053174c0b20c5d3e9e27dd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/534ba19e0841273edec947a6e5de19b9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/534ba19e0841273edec947a6e5de19b9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9e27215b6bcda8f740450b36bfd75810/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9e27215b6bcda8f740450b36bfd75810/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/c2530d026000a69477d8b64f47058d4f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/c2530d026000a69477d8b64f47058d4f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/62ec7f23ec714c18819ca24d24a4d943/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/62ec7f23ec714c18819ca24d24a4d943/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/37f56a886da5e421cdf268c2a3ba0667/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/37f56a886da5e421cdf268c2a3ba0667/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/41a116aa21a94a8dab1ccf7996ae8395/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/41a116aa21a94a8dab1ccf7996ae8395/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:19:9-53
+activity#com.alihn.android.runtimepermissions.MainActivity
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:20:19-83
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0.aar/19e7c720e85aabbc737f599b0dce9af8/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0.aar/19e7c720e85aabbc737f599b0dce9af8/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/design-26.0.0.aar/6d6501fe5e9bb5bba500e9a0a7865dae/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/design-26.0.0.aar/6d6501fe5e9bb5bba500e9a0a7865dae/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/5eb1393fadb450e489fcfee6c48568f9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/5eb1393fadb450e489fcfee6c48568f9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/c2a95ac24aceaffc42dede895453831d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/c2a95ac24aceaffc42dede895453831d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2aaad3eb5dd590b9d7a1a6915565e2a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2aaad3eb5dd590b9d7a1a6915565e2a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/668300a35ea94d1d7cb34653e707e541/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/668300a35ea94d1d7cb34653e707e541/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/transition-26.0.0.aar/5c8b08aa1f053174c0b20c5d3e9e27dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/transition-26.0.0.aar/5c8b08aa1f053174c0b20c5d3e9e27dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/534ba19e0841273edec947a6e5de19b9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/534ba19e0841273edec947a6e5de19b9/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9e27215b6bcda8f740450b36bfd75810/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9e27215b6bcda8f740450b36bfd75810/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/c2530d026000a69477d8b64f47058d4f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/c2530d026000a69477d8b64f47058d4f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/62ec7f23ec714c18819ca24d24a4d943/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/62ec7f23ec714c18819ca24d24a4d943/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/37f56a886da5e421cdf268c2a3ba0667/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/37f56a886da5e421cdf268c2a3ba0667/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/41a116aa21a94a8dab1ccf7996ae8395/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/41a116aa21a94a8dab1ccf7996ae8395/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.1] /Users/ali/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/442a11e8425d0346fc6c12bf146d729e/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.1] /Users/ali/.gradle/caches/transforms-1/files-1.1/multidex-1.0.1.aar/442a11e8425d0346fc6c12bf146d729e/AndroidManifest.xml:18:5-42
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0.aar/19e7c720e85aabbc737f599b0dce9af8/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/Kotlin_RuntimePermissionsSample/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0.aar/19e7c720e85aabbc737f599b0dce9af8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/design-26.0.0.aar/6d6501fe5e9bb5bba500e9a0a7865dae/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/design-26.0.0.aar/6d6501fe5e9bb5bba500e9a0a7865dae/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/5eb1393fadb450e489fcfee6c48568f9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/5eb1393fadb450e489fcfee6c48568f9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/c2a95ac24aceaffc42dede895453831d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/c2a95ac24aceaffc42dede895453831d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2aaad3eb5dd590b9d7a1a6915565e2a2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/2aaad3eb5dd590b9d7a1a6915565e2a2/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/668300a35ea94d1d7cb34653e707e541/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0.aar/668300a35ea94d1d7cb34653e707e541/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/transition-26.0.0.aar/5c8b08aa1f053174c0b20c5d3e9e27dd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/transition-26.0.0.aar/5c8b08aa1f053174c0b20c5d3e9e27dd/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/534ba19e0841273edec947a6e5de19b9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/534ba19e0841273edec947a6e5de19b9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9e27215b6bcda8f740450b36bfd75810/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/9e27215b6bcda8f740450b36bfd75810/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/c2530d026000a69477d8b64f47058d4f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/c2530d026000a69477d8b64f47058d4f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/62ec7f23ec714c18819ca24d24a4d943/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/62ec7f23ec714c18819ca24d24a4d943/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/37f56a886da5e421cdf268c2a3ba0667/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/37f56a886da5e421cdf268c2a3ba0667/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/41a116aa21a94a8dab1ccf7996ae8395/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/41a116aa21a94a8dab1ccf7996ae8395/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0.aar/19e7c720e85aabbc737f599b0dce9af8/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.0.0] /Users/ali/.gradle/caches/transforms-1/files-1.1/support-v13-26.0.0.aar/19e7c720e85aabbc737f599b0dce9af8/AndroidManifest.xml:27:13-51
