@@ -1,8 +1,0 @@
-/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/android-RuntimePermissions/kotlinApp/app/src/main/java/com/alihn/android/runtimepermissions/MainActivity.kt
-/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/android-RuntimePermissions/kotlinApp/app/src/main/java/com/alihn/android/runtimepermissions/camera/CameraPreview.kt
-/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/android-RuntimePermissions/kotlinApp/app/src/main/java/com/alihn/android/runtimepermissions/camera/CameraPreviewFragment.kt
-/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/android-RuntimePermissions/kotlinApp/app/src/main/java/com/alihn/android/runtimepermissions/contacts/ContactsFragment.kt
-/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/android-RuntimePermissions/kotlinApp/app/src/main/java/com/alihn/android/runtimepermissions/extensions/CollectionsExts.kt
-/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/android-RuntimePermissions/kotlinApp/app/src/main/java/com/alihn/android/runtimepermissions/extensions/CameraExts.kt
-/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/android-RuntimePermissions/kotlinApp/app/src/main/java/com/alihn/android/runtimepermissions/extensions/AppCompatActivityExts.kt
-/Users/ali/Development/Java_Android/And_Dev/Play_Apps/Demo_Apps/android-RuntimePermissions/kotlinApp/app/src/main/java/com/alihn/android/runtimepermissions/RuntimePermissionsFragment.kt
